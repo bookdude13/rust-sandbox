@@ -1,0 +1,10 @@
+[package]
+name = "sandbox"
+version = "0.1.0"
+authors = ["Ryan Fredlund <rfredlund13@gmail.com>"]
+
+[dependencies]
+rodio = "0.4.2"
+
+[[bin]]
+name = "sandbox"
